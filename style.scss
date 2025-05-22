@@ -108,6 +108,9 @@
   padding: 12px 20px;
   background-color: #ffffff;
 }
+.select:hover {
+  background-color: azure;
+}
 
 label[for="policy"] {
   margin-top: 24px;
@@ -136,7 +139,9 @@ label a {
   color: #fff;
   cursor: pointer;
 }
-
+.btn-register:hover {
+  background-color: #653fbe;
+}
 @media (max-width: 1280px) {
   .container {
     padding: 96px 80px;

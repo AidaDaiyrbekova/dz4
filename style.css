@@ -129,6 +129,10 @@
   background-color: #ffffff;
 }
 
+.select:hover {
+  background-color: azure;
+}
+
 label[for=policy] {
   margin-top: 24px;
   font-weight: 400;
@@ -156,6 +160,10 @@ label a {
   line-height: 150%;
   color: #fff;
   cursor: pointer;
+}
+
+.btn-register:hover {
+  background-color: #653fbe;
 }
 
 @media (max-width: 1280px) {
